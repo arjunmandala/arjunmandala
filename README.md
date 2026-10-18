@@ -5,30 +5,26 @@
    arjun reddy mandala
    ────────────────────────────────
    forward deployed engineer
-   ai agents · voice · text · rag
+   agentic systems · voice · automation
    hyderabad, india
 ```
 
 ### About
 
-Forward Deployed Engineer building AI agents. I work directly with customers to
-turn their workflows into agents that hold up in production, across voice and
-text, and build the Python backends, integrations and evals behind them.
+Forward Deployed Engineer building AI agents. I sit with customers, find the
+work that eats their teams' time, and ship agents that take it over and hold
+up in production.
 
 ### What I work on
 
-- Agents with multi-step tool calling, stage handoffs and human-in-the-loop review
-- RAG and text-to-SQL assistants over company databases and documents
-- Real-time voice agents and copilots with human handoff
-- Evals and observability that catch regressions before they reach users
+- Agents that run multi-step workflows end to end, with humans in the loop where it matters
+- Real-time voice agents that know when to hand off to a person
+- Taking messy, half-defined customer problems from discovery to go-live
+- Evals and guardrails so agents stay reliable after launch
 
 ### Project
 
-**[jarvis](https://github.com/arjunmandala/jarvis)**: a coding agent that works from Linear. It talks an issue through, posts a plan, and once the plan is agreed, writes and tests the code in an E2B sandbox with the Claude Agent SDK and opens a GitHub PR for a human to merge. A deterministic state machine drives it; runs can be steered mid-run and resume after crashes.
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=py,ts,fastapi,nodejs,react,postgres,redis,mongodb,rabbitmq,docker,azure,githubactions&perline=12" alt="Python, TypeScript, FastAPI, Node.js, React, PostgreSQL, Redis, MongoDB, RabbitMQ, Docker, Azure, GitHub Actions" />
+**[jarvis](https://github.com/arjunmandala/jarvis)**: a coding agent that works from Linear. It talks an issue through with you, agrees on a plan, then writes and tests the code in a sandbox and opens a pull request for a human to merge. It can be steered mid-run and picks up where it left off after a crash.
 
 ### Contact
 

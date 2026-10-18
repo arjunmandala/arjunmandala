@@ -34,14 +34,10 @@ no. a human always merges.
 ### Projects
 
 <a href="https://github.com/arjunmandala/jarvis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmandala&repo=jarvis&theme=transparent&hide_border=true&title_color=7C8CF8&icon_color=7C8CF8&description_lines_count=3" alt="jarvis" width="49%" /></a>
-<a href="https://github.com/arjunmandala/clinic-voice-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmandala&repo=clinic-voice-agent&theme=transparent&hide_border=true&title_color=7C8CF8&icon_color=7C8CF8&description_lines_count=3" alt="clinic-voice-agent" width="49%" /></a>
 
 - **jarvis**: a Linear issue goes in, a reviewed GitHub PR comes out. Driven by a deterministic state
   machine, it plans with you, codes and tests in an E2B sandbox with the Claude Agent SDK, can be
   steered mid-run, and resumes after crashes.
-- **clinic-voice-agent**: books, reschedules and cancels appointments against Cliniko in English,
-  Hindi or both. Runs on Bolna with a FastAPI tool backend, behind a 28-scenario eval gate, a nightly
-  LLM judge and an ops dashboard.
 
 ### Stack
 
